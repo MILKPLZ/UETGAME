@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1716436534 source:c:\users\admin\onedrive\documents\uetgame\main.cpp
+	"Constants.h"
+	"BaseObject.h"
+	"Timer.h"
+	"Map.h"
+	"Button.h"
+	"Enemy.h"
+	"Mouse.h"
+	"Dino.h"
+	"BaseObject.h"
+	"Constants.h"
+	<bits/stdc++.h>
+
+1716436156 source:c:\users\admin\onedrive\documents\uetgame\baseobject.cpp
+	"BaseObject.h"
+
+1716365244 c:\users\admin\onedrive\documents\uetgame\baseobject.h
+	"Constants.h"
+
+1716436242 c:\users\admin\onedrive\documents\uetgame\constants.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<thread>
+	<chrono>
+	<ctime>
+	<fstream>
+
+1716390687 source:c:\users\admin\onedrive\documents\uetgame\timer.cpp
+	"Timer.h"
+	"Constants.h"
+
+1716390687 c:\users\admin\onedrive\documents\uetgame\timer.h
+
+1716436356 c:\users\admin\onedrive\documents\uetgame\map.h
+	"Constants.h"
+	"BaseObject.h"
+
+1716436156 source:c:\users\admin\onedrive\documents\uetgame\map.cpp
+	"Map.h"
+	"Constants.h"
+
+1716363864 c:\users\admin\onedrive\documents\uetgame\button.h
+	"BaseObject.h"
+
+1716392981 source:c:\users\admin\onedrive\documents\uetgame\button.cpp
+	"Button.h"
+
+1716392981 source:c:\users\admin\onedrive\documents\uetgame\dino.cpp
+	"Dino.h"
+	"Constants.h"
+	"BaseObject.h"
+
+1716436356 c:\users\admin\onedrive\documents\uetgame\dino.h
+	"Constants.h"
+	"Timer.h"
+
+1716394178 source:c:\users\admin\onedrive\documents\uetgame\mouse.cpp
+	"Mouse.h"
+
+1716436156 c:\users\admin\onedrive\documents\uetgame\mouse.h
+	"Constants.h"
+	"BaseObject.h"
+	"Timer.h"
+
+1716435770 source:c:\users\admin\onedrive\documents\uetgame\enemy.cpp
+	"Enemy.h"
+
+1716436387 c:\users\admin\onedrive\documents\uetgame\enemy.h
+	"Constants.h"
+	"BaseObject.h"
+	"Timer.h"
+	<bits/stdc++.h>
+
+1716046028 source:c:\users\admin\onedrive\documents\uetgame\commonfunction.cpp
+	"CommonFunction.h"
+
+1716045081 c:\users\admin\onedrive\documents\uetgame\commonfunction.h
+	"Constants.h"
+	"Dino.h"
+	"Enemy.h"
+	"Map.h"
+	"Button.h"
+	"Timer.h"
+	"BaseObject.h"
+	"Mouse.h"
+
